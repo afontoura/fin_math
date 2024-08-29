@@ -4,3 +4,6 @@ lib/
 lib64/
 share/
 lib64
+*.json
+.ipynb_checkpoints/First steps-checkpoint.ipynb
+__pycache__/stochastic.cpython-310.pyc
